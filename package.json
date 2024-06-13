@@ -1,0 +1,25 @@
+{
+  "name": "hello_world",
+  "version": "1.0.0",
+  "description": "CI / CD Sample with nodejs",
+  "main": "index.js",
+  "devDependencies": {
+    "eslint": "^7.27.0",
+    "jest": "^27.0.3"
+  },
+  "scripts": {
+    "test": "jest",
+    "build": "node index.js",
+    "lint": "eslint ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cbrasseur/hello_world.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cbrasseur/hello_world/issues"
+  },
+  "homepage": "https://github.com/cbrasseur/hello_world#readme"
+}

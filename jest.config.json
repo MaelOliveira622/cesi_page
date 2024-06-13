@@ -1,0 +1,6 @@
+{
+    "name": "hello_world",
+    "jest": {
+      "verbose": true
+    }
+  }
