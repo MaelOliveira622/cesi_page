@@ -14,12 +14,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/cbrasseur/hello_world.git"
+    "url": "git+https://github.com/maeloliveira622/hello_world.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/cbrasseur/hello_world/issues"
+    "url": "https://github.com/maeloliveira622/hello_world/issues"
   },
-  "homepage": "https://github.com/cbrasseur/hello_world#readme"
+  "homepage": "https://github.com/maeloliveira622/hello_world#readme"
 }
